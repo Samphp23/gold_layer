@@ -1,1 +1,6 @@
-version 
+version 0.2
+
+env:
+  variables:
+  IMAGE_REPO_NAME: "demo"
+  REGION:"ap-south-1"
